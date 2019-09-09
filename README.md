@@ -9,6 +9,8 @@ Is necessary install Nodejs, Python and PostgreSQL. I used NodeJs v8.10.0, Pytho
 # Usage
 First run <b>$ npm install</b> inside the folders <b>tasks-backend</b> and <b>tasks</b> <br />
 
+Inside of<b>tasks-backend</b> and rename file <b>env_file</b> to <b>.env</b> and set value in authSecret
+
 After installing all modules, run PostgreSQL and run the command <b>npm-start</b> inside the folder <b>tasks-backend</b> <br />
 
 Run the command with emulator open to build app
